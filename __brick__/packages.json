@@ -1,0 +1,14 @@
+[
+    {
+        "package": "flutter_bloc",
+        "version": null,
+        "dev_dependency": false,
+        "require_sdk": false
+    },
+    {
+        "package": "flutter_hooks",
+        "version": null,
+        "dev_dependency": false,
+        "require_sdk": false
+    }
+]

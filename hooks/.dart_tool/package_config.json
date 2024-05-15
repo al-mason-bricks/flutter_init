@@ -161,10 +161,10 @@
       "name": "flutter_init_hooks",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-11-08T06:44:08.501527Z",
+  "generated": "2024-05-15T10:12:37.942493Z",
   "generator": "pub",
-  "generatorVersion": "3.0.6"
+  "generatorVersion": "3.3.3"
 }
